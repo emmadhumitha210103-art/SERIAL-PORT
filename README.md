@@ -1,4 +1,3 @@
-
 # Serial Transfer of Single Byte / Character using 8051 (Keil)
 
 ## AIM
